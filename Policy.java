@@ -86,5 +86,5 @@ public class Policy {
             price += (bmi - 35) * 20;
         }
         return price;
-    }
+    }  
 }

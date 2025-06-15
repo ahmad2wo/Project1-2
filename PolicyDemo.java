@@ -52,4 +52,4 @@ public class PolicyDemo {
         System.out.println("The number of policies with a smoker is: " + smokerCount);
         System.out.println("The number of policies with a non-smoker is: " + nonSmokerCount);
     }
-}
+}  
